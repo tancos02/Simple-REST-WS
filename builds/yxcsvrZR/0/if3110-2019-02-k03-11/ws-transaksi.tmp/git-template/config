@@ -1,0 +1,4 @@
+[fetch]
+	recurseSubmodules = false
+[http "https://gitlab.informatika.org"]
+	sslCAInfo = /Users/Tasya/ws-transaksi/builds/yxcsvrZR/0/if3110-2019-02-k03-11/ws-transaksi.tmp/CI_SERVER_TLS_CA_FILE
