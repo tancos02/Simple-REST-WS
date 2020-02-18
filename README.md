@@ -35,16 +35,3 @@ Basis data yang digunakan terdapat dalam transaction.sql. Terdapat 1 relasi dala
 8. waktu = datetime, default = now()
 9. isRated = int, default = 0
 10. jenis = string, default = debit
-
-## Pembagian Tugas WBD
-
-1. Transaksi Fungsi CreateTransaction: 13517141
-2. Transaksi Fungsi UpdateStatus: 13516066
-3. Transaksi Fungsi GetTransaction: 13517111
-
-## Pembagian Tugas DPPL
-1. CI/CD: 13517141, 13517111
-2. Eksplorasi dan setup mesin deployment: 13517141
-
-## URL deployment
-http://ec2-3-91-20-103.compute-1.amazonaws.com:3000
